@@ -25,9 +25,3 @@ ArtiStudio popup adalah plugin WordPress yang memungkinkan Anda menambahkan tomb
 5. Pilih file zip yang telah didownload
 6. Klik "Install Now"
 7. Setelah instalasi selesai, klik "Activate"
-
-## Penggunaan
-
-### Menggunakan Shortcode
-
-Anda dapat menambahkan tombol menggunakan shortcode berikut:
